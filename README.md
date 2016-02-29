@@ -1,5 +1,5 @@
 # hello-world
-yeah, I'm a noob. I know
+yeah, I'm a noob. I know.
 enjoy this roflcopter
 
 ``` 
